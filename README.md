@@ -1,5 +1,5 @@
 # npvu
-JavaScript library for geo.npvu.me
+JavaScript library for npvu.me
 # main
 ```js
 async function main(){
